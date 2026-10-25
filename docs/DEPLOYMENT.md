@@ -1,5 +1,7 @@
 # Railway deployment
 
+Demo is no longer running
+
 Public API origin: https://shortlink-service-production-fc6c.up.railway.app
 
 GitHub: https://github.com/zzchatgpp/shortlink-service
