@@ -4,7 +4,7 @@ Demo is no longer running
 
 Public API origin: https://shortlink-service-production-fc6c.up.railway.app
 
-GitHub: https://github.com/zzchatgpp/shortlink-service
+GitHub: https://github.com/MohdKN1005/shortlink-service
 
 ## Services
 
